@@ -1,0 +1,17 @@
+commit def952cd8c0b1d4c59e5ec4446e315dbd2855683
+Author: dave35 <auslander.david@gmail.com>
+Date:   Mon Nov 26 22:28:26 2018 +0200
+
+    added gitignore
+
+commit 47b7ff595cc033ada3f25a48b8f0a458cd39fab9
+Author: dave35 <auslander.david@gmail.com>
+Date:   Sun Nov 25 23:23:58 2018 +0200
+
+    added two files
+
+commit 3054fec0183a13cbe86d9a51d095b4e87afde5fb
+Author: dave35 <auslander.david@gmail.com>
+Date:   Sun Nov 25 23:04:58 2018 +0200
+
+    added readme.txt
