@@ -1,25 +1,25 @@
-# This is a large heading
-## This is a smaller heading
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poets pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
-- This is
-- an unordered
-- list
+# Dave Ben
+### Geography
 
-1. This is
-2. an ordered
-3. list
+I live in the city of RG, in the state of Wonderland
 
-Here is `some code` in the middle of a sentence.
+### Reading
 
-```
-This is
-a block
-of code
-```
+Three of my favorite books are:
 
-Here is how you make [a link](https://www.wikipedia.org/).
+- *Dark elves* by SK
+- *lord of rings* by guess
+- *war of the twins* by Margaret Weiss
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+### Sport
+
+Last night I dreamt about 
+
+Sports:
+
+1. Ninja warrior .
+2. MMA.
+3. Triathlon.
+
+### Contact
+The best way to get in touch with me is **sorry you cant**
